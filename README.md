@@ -1,0 +1,1 @@
+# Bert-model-for-AI-generated-text-detection
